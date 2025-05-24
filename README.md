@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Riya415
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m @Riya415.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning DSA.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me 1. Instagram (rhea.__30)
-- 2.email- riyabansod23@gmail.com
+- 2.email- bansodriya415@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "My code works perfectly... until I run it."
 
